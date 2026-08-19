@@ -59,7 +59,7 @@ A synthetic research lab designed around disciplined evaluation rather than trad
 ## Education & Credentials
 
 - Associate degrees in **Accounting, Economics, and Business Administration** — Southwestern College
-- **Google Data Analytics Professional Certificate** — completed 2026
+- **Google Data Analytics Professional Certificate** — in progress
 - Bilingual: **English / Spanish**
 
 ## Open To
